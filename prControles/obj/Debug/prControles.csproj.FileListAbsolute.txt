@@ -1,0 +1,10 @@
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\bin\Debug\prControles.exe.config
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\bin\Debug\prControles.exe
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\bin\Debug\prControles.pdb
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.csprojAssemblyReference.cache
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.Form1.resources
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.Properties.Resources.resources
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.csproj.GenerateResource.cache
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.csproj.CoreCompileInputs.cache
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.exe
+D:\ItsavClassRoom\Tópicos avanzados de programación Sabatino Sistemas\Tarea1\prControles\prControles\prControles\obj\Debug\prControles.pdb
